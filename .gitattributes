@@ -1,5 +1,6 @@
 .gitattributes merge=ours
 .gitignore merge=ours
+kubeyaml/app-devv/*  merge=ours
 kubeyaml/app-devv/**  merge=ours
 kubeyaml/app-dev/* merge=ours
 kubeyaml/app-dev/** merge=ours
