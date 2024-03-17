@@ -1,4 +1,4 @@
 
 .gitattributes merge=ours
 .gitignore merge=ours
-
+kubeyaml/app-devv/* merge=ours
